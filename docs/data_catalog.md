@@ -8,6 +8,7 @@ tables and fact tables for specific business metrics.
 1. gold_dim_dimensions
    Purporse: Stores customer details enriched with demographic and geographic data.
    Columns:
+
 |Column|Data Type|Description|
 |------|---------|-----------|
 
