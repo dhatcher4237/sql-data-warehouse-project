@@ -1,4 +1,4 @@
-# Data Dictinary for Gold Layer
+# Data Dictionary for Gold Layer
 
 ## Overview 
 
