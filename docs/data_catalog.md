@@ -9,6 +9,8 @@ tables and fact tables for specific business metrics.
    Purporse: Stores customer details enriched with demographic and geographic data.
    Columns:
 
-|Column|Data Type|Description|
-|------|---------|-----------|
+|Column Name|Data Type|Description|
+|------|---------|----------------|
+|customer_key|INT|Surrogate key uniquely identifying each customer record in the dimension table|
+
 
