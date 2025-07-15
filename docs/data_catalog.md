@@ -7,3 +7,7 @@ tables and fact tables for specific business metrics.
 1. gold_dim_dimensions
    Purporse: Stores customer details enriched with demographic and geographic data.
    Columns:
+|Column Name    |Data Type|      Description                                                                   |
+|--------------------------------------------------------------------------------------------------------------|
+|customer_key   | INT     | Surrogate key uniquely identifying each customer record in the dimension table.    |
+
